@@ -1,0 +1,15 @@
+[10-Apr-2020 21:43:19 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[10-Apr-2020 22:10:14 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[10-Apr-2020 22:45:49 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[10-Apr-2020 23:21:58 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[11-Apr-2020 00:05:51 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[11-Apr-2020 00:17:37 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[11-Apr-2020 01:08:29 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[11-Apr-2020 04:11:26 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[11-Apr-2020 15:00:30 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[12-Apr-2020 04:59:32 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[12-Apr-2020 08:31:23 UTC] PHP Warning:  Creating default object from empty value in /home/velikima/public_html/wp-includes/taxonomy.php on line 540
+[14-Apr-2020 18:39:14 UTC] PHP Warning:  Creating default object from empty value in /home/velikima/public_html/wp-includes/taxonomy.php on line 540
+[14-Apr-2020 21:31:59 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[14-Apr-2020 21:41:11 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134
+[14-Apr-2020 22:07:43 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/velikima/public_html/wp-content/plugins/ninja-forms/includes/Display/Render.php on line 134

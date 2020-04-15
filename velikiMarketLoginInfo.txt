@@ -1,0 +1,13 @@
+database name:		velikima_veelikimarket
+username:			root
+password:				root
+tablePrefix:			velikima_
+
+
+
+
+
+Велики маркет
+Твоје локалне радње заједно на једном месту
+http://localhost/velikimarket
+
